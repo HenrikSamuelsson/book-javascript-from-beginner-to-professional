@@ -11,4 +11,3 @@ Opened the browser console in Google Chrome Browser running on a Windows compute
 ### Part 2
 
 Tested the statement `console.log("Henrik")` in the same console is in part 1 above. The result was that `Henrik' was output in the console. This means that this statement can be used to debug while developing web pages.
- 
