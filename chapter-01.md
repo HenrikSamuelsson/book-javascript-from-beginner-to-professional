@@ -10,4 +10,4 @@ Opened the browser console in Google Chrome Browser running on a Windows compute
 
 ### Part 2
 
-Tested the statement `console.log("Henrik")` in the same console ass in part 1 above. The result was that my name, `Henrik', was presented as output in the console. This means that this statement can be used to debug while developing web pages.
+Tested the statement `console.log("Henrik")` in the same console as in part 1 above. The result was that my name, `Henrik', was presented as output in the console. This means that this statement can be used to debug while developing web pages.
