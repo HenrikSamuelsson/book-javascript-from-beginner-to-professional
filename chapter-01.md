@@ -14,7 +14,9 @@ Tested the statement `console.log("Henrik")` in the same console as in part 1 ab
 
 ## Practice Exercise 1.2
 
-Exercise to create a Java script in an HTML page. Resulting code is pasted below or see the actual file [practice-exercise-01-02.html](practice-exercise-01-02/practice-exercise-01-02.html).
+Exercise to create a Java script in an HTML page. Resulting code is pasted below or see the actual file in the link.
+
+[practice-exercise-01-02.html](practice-exercise-01-02/practice-exercise-01-02.html)
 
 ```html
 <!DOCTYPE html>
