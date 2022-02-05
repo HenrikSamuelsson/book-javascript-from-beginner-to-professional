@@ -60,8 +60,8 @@ Exercise where an external JavaScript is linked to a HTML file. The resulting co
             Beginner to Professional.
         </p>
         <p>
-            This page includes a JavaScript that outputs the string Hello world!
-            in the browser console.
+            This page includes a link to a JavaScript that outputs the string
+            Hello world! in the browser console.
         </p>
         <script
             type="text/javascript"
