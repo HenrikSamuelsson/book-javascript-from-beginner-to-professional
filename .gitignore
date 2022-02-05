@@ -1,2 +1,5 @@
-#Ignore the code download that comes with the book.
+# Folder holding code that comes with the book
 downloaded-code
+
+# Visual Studio Code IDE setup
+.vscode
