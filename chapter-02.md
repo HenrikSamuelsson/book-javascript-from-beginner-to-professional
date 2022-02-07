@@ -63,3 +63,7 @@ The resulting print to the console when running the above script was per below c
 ```txt
 Hello, my name is Henrik, I am 48 years old and I can codeJavaScript: true
 ```
+
+# Practice Exercise 2.3
+
+Exercise to develop a script that calculates the hypotenuse of a right-angled triangle.
