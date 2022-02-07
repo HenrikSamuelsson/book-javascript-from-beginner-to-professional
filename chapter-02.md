@@ -35,10 +35,31 @@ console.log(myNum, typeof myNum)
 
 The resulting print to the console when running the above script was per below console output.
 
-```bash
+```txt
 Laurence string
 Svekis string
 undefined undefined
 null object
 1000 number
+```
+
+## Practice Exercise 2.2
+
+Exercise to develop the below script, that print a sentence to the console based on variable content.
+
+```js
+let myName = "Henrik";
+let myAge = 48;
+let canCodeJavaScript = true;
+
+console.log(
+    `Hello, my name is ${myName}, I am ${myAge} years old and I can code` +
+    `JavaScript: ${canCodeJavaScript}`
+);
+```
+
+The resulting print to the console when running the above script was per below console output.
+
+```txt
+Hello, my name is Henrik, I am 48 years old and I can codeJavaScript: true
 ```
