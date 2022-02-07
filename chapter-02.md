@@ -4,7 +4,7 @@ Exercise solutions from chapter 2 in the book Javascript from Beginner to Profes
 
 ## Practice Exercise 2.1
 
-Exercise to determine the type of the following list of variables.
+Exercise to determine the type of the variables in the below list.
 
 ```javascript
 let str1 = 'Laurence'; 
