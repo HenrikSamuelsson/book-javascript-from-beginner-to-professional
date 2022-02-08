@@ -1,6 +1,6 @@
 # Chapter 2
 
-Exercise solutions from chapter 2 in the book Javascript from Beginner to Professional.
+Solutions to exercises from chapter 2 in the book Javascript from Beginner to Professional.
 
 ## Practice Exercise 2.1
 
