@@ -4,9 +4,11 @@ Solutions to exercises from chapter 3 in the book Javascript from Beginner to Pr
 
 ## Practice Exercise 3.1
 
+Exercise to test arrays. The symbol `>` is used to indicate output in the console, lines below not starting with this symbol is input in the console.
+
 ### Part 1
 
-Exercise to create a shopping list with 3 items.
+Exercise to create a an array representing a shopping list with 3 items.
 
 The shopping list was entered in the browser console see input and corresponding output below.
 
@@ -53,4 +55,24 @@ Can also use `console.log()` to display the content of the shopping list, which 
 ```txt
 console.log(shoppingList)
 > (3) ['Milk', 'Bananas', 'Apples']
+```
+
+## Practice Exercise 3.2
+
+Exercise to test array methods. The symbol `>` is used to indicate output in the console, lines below not starting with this symbol is input in the console.
+
+### 3.2.1
+
+Creation of an empty array to use as a shopping list.
+
+```txt
+let shoppingList1 = []
+> undefined
+```
+
+Add `Milk`, `Bread`, and `Apples` to the shopping list.
+
+```txt
+shoppingList1.push('Milk', 'Bread', 'Apples')
+> 3
 ```
