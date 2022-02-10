@@ -1,14 +1,20 @@
-// Part 1. Create an empty array to use as a shopping list
-let shoppingList1 = [];
 console.log('Part 1.');
-console.log('shoppingList1: ' + shoppingList1);
+console.log('Create an empty array to use as a shopping list')
+let shoppingList = [];
+console.log('ShoppingList content: ' + shoppingList + '\n');
 
-// Part 2. Add Milk, Bread, and Apples to the shopping list.
-shoppingList1.push('Milk', 'Bread', 'Apples');
 console.log('Part 2.');
-console.log('shoppingList1: ' + shoppingList1);
+console.log('Add Milk, Bread, and Apples to the shopping list.');
+shoppingList.push('Milk', 'Bread', 'Apples');
+console.log('ShoppingList content: ' + shoppingList + '\n');
 
-// Part 3. Update Bread with Bananas and Eggs.
-shoppingList1.splice(1, 1, 'Bananas', 'Eggs');
 console.log('Part 3.');
-console.log('shoppingList1: ' + shoppingList1);
+console.log('Update Bread with Bananas and Eggs, i.e. replace Bread.')
+shoppingList.splice(1, 1, 'Bananas', 'Eggs');
+console.log('ShoppingList content: ' + shoppingList + '\n');
+
+console.log('Part 4.');
+console.log('Remove the last item and output it into the console.');
+last = shoppingList.pop();
+console.log('Removed ' + last + " from the shoppingList.");
+console.log('ShoppingList content: ' + shoppingList + '\n');
