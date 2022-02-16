@@ -16,4 +16,6 @@ Exercise that builds on exercise 7.1, a method is added to the `Person` class. T
 
 See the below link for a solution in the form of JavaScript that includes a version of the `Person` class with a `fullname` method. Two `Person` objects are created and the `fullname` method is used to display the name of these two objects.
 
-[practice-exercise-07-02.js](practice-exercise-07-02/practice-exercise-07-02.js
+[practice-exercise-07-02.js](practice-exercise-07-02/practice-exercise-07-02.js)
+
+## Practice Exercise 7.3
