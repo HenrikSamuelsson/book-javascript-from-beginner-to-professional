@@ -9,3 +9,11 @@ Exercise with the objective to create a class that can be used for tracking the 
 See the below link for a solution in the form of a JavaScript that creates two `Person` objects and outputs the `firstname` and `lastname` properties of each person to the console.
 
 [practice-exercise-07-01.js](practice-exercise-07-01/practice-exercise-07-01.js)
+
+## Practice Exercise 7.2
+
+Exercise that builds on exercise 7.1, a method is added to the `Person` class. The method is to be called `fullname` and will return the full name of a `Person` object.
+
+See the below link for a solution in the form of JavaScript that includes a version of the `Person` class with a `fullname` method that is used to show the name of two `Person` objects.
+
+[practice-exercise-07-02.js](practice-exercise-07-02/practice-exercise-07-02.js)
