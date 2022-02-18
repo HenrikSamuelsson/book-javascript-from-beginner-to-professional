@@ -10,4 +10,4 @@ For example the sentence `thIs will be capiTalized for each word` shall be chang
 
 A JavaScript that solves the exercise can be found in the below link.
 
-[practice-exercie-08-04.js](practice-exercise-08-04/practice-exercise-08-04.js)
+[practice-exercise-08-04.js](practice-exercise-08-04/practice-exercise-08-04.js)
