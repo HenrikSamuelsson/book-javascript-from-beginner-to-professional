@@ -1,6 +1,6 @@
 # Chapter 9
 
-Solutions to exercises from chapter 8 in the book Javascript from Beginner to Professional.
+Solutions to exercises from chapter 9 in the book Javascript from Beginner to Professional.
 
 ## Practice Exercise 9.1
 
