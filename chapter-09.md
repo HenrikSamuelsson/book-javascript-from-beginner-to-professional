@@ -23,3 +23,19 @@ console.log(window.outerHeight)
 ```txt
 console.log(window.outerWidth)
 ```
+
+## Practice Exercise 9.2
+
+The browser console command `console.dir(window)` will display a large tree structure. By investigating the tree it can be seen that the property `protocol` is a child of `location` which in turn is a child of `window`.
+
+This means that the following command can be used to output the value of `protocol`.
+
+```txt
+console.log(window.location.protocol)
+```
+
+The same strategy can be used to get the value of href.
+
+```txt
+console.log(window.location.href)
+```
