@@ -20,4 +20,8 @@ Manually navigated down the tree structure, could for example go into `main` and
 
 ### Part 3
 
-(TODO)
+Tested out a console command to reach the list element with the text "One".
+
+```txt
+console.dir(document.body.children[0].children[0].children[0].children[0].textContent)
+```
