@@ -25,3 +25,29 @@ Tested out a console command to reach the list element with the text "One".
 ```txt
 console.dir(document.body.children[0].children[0].children[0].children[0].textContent)
 ```
+
+## Self-check Quiz 1
+
+The output of the following code is to be determined.
+
+```js
+let step = 3;
+ 
+for (let i = 0; i < 1000; i += step) {
+    if (i > 10) {
+        break;
+    }
+    console.log(i);
+}
+```
+
+The variable `i` will in the for loop be updated to `0, 3, 6, 9` and this is printed to the console. Next `i` becomes `12` causing a break out of the for loop and end of execution.
+
+To summarize the output will be:
+
+```txt
+0
+3
+6
+9
+```
